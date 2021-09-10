@@ -1,0 +1,4 @@
+com/test/ApplicationConfig.class
+com/test/ServletInitializer.class
+com/test/controllers/HomeController.class
+com/test/HplusappApplication.class
